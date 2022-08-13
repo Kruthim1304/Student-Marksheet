@@ -1,0 +1,56 @@
+body{
+    background-color: #4C6A4B;
+    padding: 25px;
+  }
+  
+  .container{
+    width: 1000px;
+    height: 1000px;
+    margin: 0 auto;
+    padding-left: 32px;
+    padding-right: 32px;
+    padding-top: 40px;
+    border-radius: 12px;
+    background-color: #CFE2CE;
+    font-family: Lato;
+  }
+  
+  .container h2{
+    text-align: center;
+  }
+  
+  table{
+    margin: 0 auto;
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+  }
+  
+  td, th {
+    padding: 12px;
+    border: 2px dotted #2D452F;
+  }
+  .donotShow_row {
+    display: none;
+}
+.links{
+
+    text-align-last: left;
+    font-weight: bold;
+
+}
+
+.Home{
+    
+    text-align-last: right;
+    font-weight: bold;
+    margin: 0;
+}
+
+a:visited { 
+    text-decoration: none; 
+    color: blue; 
+   }
+
+
+  
